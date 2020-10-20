@@ -34,7 +34,7 @@ left: 0;
 .centerPosition{
 position: absolute;
 top: 50%;
-left: 20%;
+left: 15%;
 transform: translateX(-50%);
 transform: translateY(-50%);
 }
@@ -165,4 +165,11 @@ transform:skewX(3)
   position: absolute;
   top: 0;
   left: 70%;
+}
+#boy{
+  height: 50vh;
+}
+#title{
+  width: 50vw !important;
+  height: 30vh !important;
 }
